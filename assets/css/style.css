@@ -78,7 +78,7 @@ li a:hover {
 
 
 
-/* ------------main section-------------- */
+/* ------------main section home page-------------- */
 
 
 .subheading {
@@ -119,6 +119,35 @@ li a:hover {
 
 
 
+/* -------- contact page ----------------- */
+
+
+.contact-form {
+    border-top: 2px solid #dddddd;
+    padding-top: 20px;
+  
+}
+
+
+.name {
+}
+
+.email {
+
+}
+
+.messagebox {
+
+}
+
+
+#clickme {
+    background: #4aaaa5;
+    color: #ffffff;
+    padding: 10px;
+
+
+}
 
 
 /* ----------------footer----------------- */
