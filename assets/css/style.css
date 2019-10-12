@@ -40,7 +40,7 @@ header {
     color: #ffffff;
     padding: 20px;
     float: left;
-    font-family: font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-family:  'Georgia', Times, 'Times New Roman', serif;
 }
 
 
@@ -115,6 +115,8 @@ li a:hover {
     margin-right: auto;
     margin-bottom: 40px;
     border: 1px solid #dddddd;
+    overflow: hidden;
+
 }
 
 
@@ -140,14 +142,62 @@ li a:hover {
 
 }
 
+.submitbutton {
+}
+
 
 #clickme {
     background: #4aaaa5;
     color: #ffffff;
-    padding: 10px;
+    font-size: 20px;
+    padding: 20px;
+    width: 120px;
+}
 
+
+
+
+/* ----------- portfolio gallery --------- */
+
+.card-container {
+    margin-bottom: 30px;
 
 }
+
+.image1 {
+    width: 300px;
+    height: 200px;
+    float: left;
+}
+
+.image2 {
+    width: 300px;
+    height: 200px;
+}
+
+.image3 {
+    width: 300px;
+    height: 200px;
+}
+
+.image4 {
+    width: 300px;
+    height: 200px;
+}
+
+.image5 {
+    width: 300px;
+    height: 200px;
+}
+
+
+.label {
+    width: 300px;
+    height: auto;
+    background: #4aaaa5;
+    color: #ffffff;
+}
+
 
 
 /* ----------------footer----------------- */
@@ -176,18 +226,3 @@ body {
     font-size: 16px;
 
 }
-
-
-header > div{
-
-}
-
-
-nav > ul{}
-nav >  ul > li{}
-
-
-footer > img {
-
-}
-
